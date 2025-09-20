@@ -17,7 +17,7 @@ Consiste en una aplicación sencilla en **JavaScript** que permite organizar un 
 ---
 ## 📸 Capturas de pantalla
 ### Pantalla principal
-![Pantalla principal](assets/img/imagen1.jpg)
+![Captura 1](assets/img/imagen1.jpg)
 
 ### Resultado del sorteo
 ![Captura 2](assets/img/imagen2.jpg)
